@@ -1,8 +1,8 @@
 # Clion-AVR
-Ein einfaches AVR-ClMakeList Template für Clion
+Simple CMake project for CLion IDE.
 
-Einfach in Clion ein neues Projekt erstellen und die CMakeList.txt ersetzen.
-Dann die entspechenden Variablen mit den eigenen passenden Daten setzen.
-Entsprechende Zeilen sind mit einem Kommentar versehen.
 
-Toni Reichartz
+## How to use
+- Create new project in CLion and replace CMakeList.txt.
+- Edit variables in CMakeList.txt to match your setup. Such as MCU name, frequency, programmer, port)
+- DONE! ;)
